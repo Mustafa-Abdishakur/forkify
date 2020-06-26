@@ -6,7 +6,7 @@ import * as likesView from './views/likesView';
 import {elements, renderLoader,clearLoader} from './views/base';
 import Recipe from './models/Recipe';
 import List from './models/List';
-import Likes from './models/likes';
+import Likes from './models/Likes';
 
 
 /** Global state of the app
